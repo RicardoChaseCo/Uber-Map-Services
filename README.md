@@ -1,11 +1,13 @@
 # Uber-App-Clone
 
-##Main Page 1
+<br>
+
+Main Page
 
 ![Image text](https://github.com/RicardoChaseCo/Uber-App-Clone/blob/main/page1.png)
 
 
-##Main Page 2
+Map Page and Service
 
 ![Image text](https://github.com/RicardoChaseCo/Uber-App-Clone/blob/main/page2.png)
 
