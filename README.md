@@ -1,3 +1,5 @@
+## Tech Stacks
+Used React Native, Redux, Tailwind CSS, Expo, and several Google APIs to achieve Uber Map Services Clone
 
 ## Main Page
 <br>
